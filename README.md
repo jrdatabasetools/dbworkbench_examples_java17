@@ -6,6 +6,8 @@ All examples contain a normal executable main Java program and a JUnit test case
 
 ## Prerequisites
 
+Install PL/SQL Connector Builder Maven Plugin from : https://www.jr-database-tools.com/download
+
 ### Installed Software
 
 - Java 11
