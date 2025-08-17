@@ -1,6 +1,6 @@
 services:
   server:
-    image: rmi_springapi_server_java17:25.1.1
+    image: rmi_springapi_server_java17:25.1.2
     ports:
       - 1098:1098
       - 1099:1099
